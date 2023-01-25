@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jsonroads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8755296.550468819215894, 4274671.230984523892403 ], [ -8754817.328086223453283, 4273697.620954061858356 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8754871.923041205853224, 4272611.787960588000715 ], [ -8754817.330639556050301, 4273697.610154147259891 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8754815.266214415431023, 4273697.728383753448725 ], [ -8755670.468399409204721, 4274342.197195001877844 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8754814.656245645135641, 4273698.132827712222934 ], [ -8754188.748219901695848, 4273218.59098644554615 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8754818.507987346500158, 4273701.984569408930838 ], [ -8753746.631272543221712, 4274194.638203349895775 ] ] ] } }
+]
+}
