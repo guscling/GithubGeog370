@@ -3,10 +3,10 @@
 "name": "Roadsjson",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.650167082850629, 35.811181399244262 ], [ -78.645862154942847, 35.804088445758438 ] ] ] } },
-{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.646352589767815, 35.796177177260432 ], [ -78.64586217787982, 35.804088367075281 ] ] ] } },
-{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645843632833262, 35.804089228441242 ], [ -78.653526044771183, 35.808784389871718 ] ] ] } },
-{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645838153390585, 35.80409217503189 ], [ -78.640215525930785, 35.800598379365098 ] ] ] } },
-{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645872754174974, 35.804120237025586 ], [ -78.636243921818973, 35.807709399918927 ] ] ] } }
+{ "type": "Feature", "properties": { "id": 1, "Name": "Glenwood Ave" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.650167082850629, 35.811181399244262 ], [ -78.645862154942847, 35.804088445758438 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Glenwood Ave" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.646352589767815, 35.796177177260432 ], [ -78.64586217787982, 35.804088367075281 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Farview Rd" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645843632833262, 35.804089228441242 ], [ -78.653526044771183, 35.808784389871718 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Fairview Rd" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645838153390585, 35.80409217503189 ], [ -78.640215525930785, 35.800598379365098 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Whitaker Mill Rd" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.645872754174974, 35.804120237025586 ], [ -78.636243921818973, 35.807709399918927 ] ] ] } }
 ]
 }
