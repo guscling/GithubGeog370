@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Roanokeparkjson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.645802456203043, 35.804093880756241 ], [ -78.638892739661202, 35.806516322886722 ], [ -78.635457110657114, 35.802222415650732 ], [ -78.64021314931577, 35.800631635643988 ], [ -78.645802456203043, 35.804093880756241 ] ] ] ] } }
+]
+}
